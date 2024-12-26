@@ -1,0 +1,11 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "collection of coding challenges & solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "abdul ahmad",
+  "license": "ISC"
+}
